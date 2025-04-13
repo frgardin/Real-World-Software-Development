@@ -32,7 +32,7 @@ This project is based on the book **"Desenvolvimento Real de Software"**, which 
 
 ## References
 
-- **Book**: [Desenvolvimento Real de Software](https://example.com/book-link)
-- **Author**: [Maurício Aniche](https://example.com/author-link)
+- **Book**: [Desenvolvimento Real de Software](https://www.amazon.com.br/Desenvolvimento-Real-Software-projetos-fundamentos/dp/6555202017/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2WQ3XAWMC89D3&dib=eyJ2IjoiMSJ9.WwR6b-V2-z7Xbp6kQ-HaxtOoFCQTSnF9MGSjFgODW0JyvetQ-FHbYfVLZFIfgZ7pbMuvVSTKCSN-J526VFFCtaSx_O6Ot-vq2keA1PMtNwzTJ7tXYsPHfZaneKW4U84ZRtq2c3kdNRCHOUOctRiIqpvZ1aL-LY1ggHdfBWP0dXnfaryC_D-svs-XRSkTac9oyoUGlmdTPT9_WgIst08DbM2HG1b17i-9ECWMZSNlktVyPzmpx5OL5A_YtfN-LYX6VVzNqnlDPdIcksMwqkYF4h-e1nLxq89Mxj2L_elzECk.cI7oYg7ptwMpXR89B0wekpbmXexWIFMv8qnFxk_fdj4&dib_tag=se&keywords=desenvolvimento+real+de+software&qid=1744579618&sprefix=desenvolvimento+real+de+softwa%2Caps%2C214&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+- **Authors**: [Raoul-Gabriel Urma](https://www.amazon.com.br/stores/Raoul-Gabriel-Urma/author/B00NB151C2?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
 
 Happy coding!
