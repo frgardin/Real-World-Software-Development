@@ -25,7 +25,7 @@ This project is based on the book **"Desenvolvimento Real de Software"**, which 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/real-world-software-development.git
+    git clone https://github.com/frgardin/real-world-software-development.git
     ```
 2. Navigate through the examples and exercises for each SOLID principle.
 3. Run and modify the code to experiment and reinforce learning.
