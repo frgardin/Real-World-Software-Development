@@ -1,7 +1,7 @@
-package org.acme.service.impl;
+package com.development.software.world.real.service.impl;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import org.acme.service.FileReader;
+import com.development.software.world.real.service.FileReader;
 
 import java.io.IOException;
 import java.nio.file.Files;

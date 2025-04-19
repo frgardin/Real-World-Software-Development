@@ -1,10 +1,8 @@
-package org.acme.controller.dto.response;
-
+package com.development.software.world.real.service.dto;
 
 import java.time.LocalDate;
 
-
-public record BankTransactionResponse(
+public record BankTransactionDTO(
         LocalDate date,
         Double amount,
         String description

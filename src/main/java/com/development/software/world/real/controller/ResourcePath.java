@@ -1,4 +1,4 @@
-package org.acme.controller;
+package com.development.software.world.real.controller;
 
 public final class ResourcePath {
     private static final String API = "/api";

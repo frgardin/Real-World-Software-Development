@@ -1,8 +1,8 @@
-package org.acme.service.impl;
+package com.development.software.world.real.service.impl;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import org.acme.service.BankTransactionParser;
-import org.acme.service.dto.BankTransactionDTO;
+import com.development.software.world.real.service.BankTransactionParser;
+import com.development.software.world.real.service.dto.BankTransactionDTO;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

@@ -1,11 +1,11 @@
-package org.acme.service.impl;
+package com.development.software.world.real.service.impl;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
-import org.acme.service.BankTransactionParser;
-import org.acme.service.BankTransactionUseCase;
-import org.acme.service.FileReader;
-import org.acme.service.dto.BankTransactionDTO;
+import com.development.software.world.real.service.BankTransactionParser;
+import com.development.software.world.real.service.BankTransactionUseCase;
+import com.development.software.world.real.service.FileReader;
+import com.development.software.world.real.service.dto.BankTransactionDTO;
 
 import java.io.IOException;
 import java.util.List;

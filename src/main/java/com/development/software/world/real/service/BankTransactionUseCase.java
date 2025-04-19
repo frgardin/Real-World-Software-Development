@@ -1,6 +1,6 @@
-package org.acme.service;
+package com.development.software.world.real.service;
 
-import org.acme.service.dto.BankTransactionDTO;
+import com.development.software.world.real.service.dto.BankTransactionDTO;
 
 import java.io.IOException;
 import java.util.List;

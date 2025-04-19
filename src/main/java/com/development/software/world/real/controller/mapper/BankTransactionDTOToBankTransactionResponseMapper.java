@@ -1,7 +1,7 @@
-package org.acme.controller.mapper;
+package com.development.software.world.real.controller.mapper;
 
-import org.acme.controller.dto.response.BankTransactionResponse;
-import org.acme.service.dto.BankTransactionDTO;
+import com.development.software.world.real.controller.dto.response.BankTransactionResponse;
+import com.development.software.world.real.service.dto.BankTransactionDTO;
 import org.mapstruct.Mapper;
 import org.mapstruct.MappingConstants;
 
